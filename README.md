@@ -28,7 +28,8 @@ print(f'{distance:.2f}')
 
 
 ### OUTPUT:
-![Alt text](<output 3-1.png>)
+![output 3](https://github.com/feryjfgkuyfgewjfgew/DISTANCE-BETWEEN-TWO-POINTS/assets/150319377/2eb2956c-ebd6-4657-8e4a-d406c6306e0d)
+
 
 
 ### RESULT:
